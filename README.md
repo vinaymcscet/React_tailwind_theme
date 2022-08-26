@@ -1,3 +1,20 @@
+# React wit implementation of Tailwind CSS
+
+The project is a React app with implementation of Tailwind  themes.
+
+This project can update color themes using Tailwind CSS based on the using of React useState hooks .
+
+![image](https://user-images.githubusercontent.com/25408620/186815705-fee8139e-902c-42bf-8e55-e77bf4774af1.png)
+
+Video View of theme change - 
+
+
+
+https://user-images.githubusercontent.com/25408620/186820832-2e93ebe1-a5ba-4dd6-856a-500b6a247fe9.mp4
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
